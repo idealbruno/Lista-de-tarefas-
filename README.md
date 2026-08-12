@@ -39,5 +39,5 @@ bloco-de-tarefas/
 └── requirements.txt
 
 Também é possível acessar a documentação alternativa:
-  - cd backend
-  - uvicorn main:app --reload 
+   cd backend
+   uvicorn main:app --reload 
